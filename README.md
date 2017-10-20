@@ -11,10 +11,14 @@
 # conf.ini配置说明
 [global]
 
-input=D:\phone.txt
+input=D:\phone.txt 
+
 output=D:\rs_des.txt
+
 password=2017
+
 code=UTF-8
+
 type=des
 
 
